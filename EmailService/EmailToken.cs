@@ -9,6 +9,7 @@ namespace EmailService
     public class EmailToken
     {
         /// <summary>
+// another comment
         /// Type name.
         /// </summary>
         public string TypeName { get; private set; }

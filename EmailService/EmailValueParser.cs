@@ -30,6 +30,7 @@ namespace EmailService
            var newstr = dict.Aggregate(body, (current, value) => current.Replace(value.Key, value.Value));
             // body = body.Replace("$password$", "Hellohi786"); //replacing the required things  
            return newstr; 
+
          }
     }
     
