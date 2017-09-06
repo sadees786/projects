@@ -15,6 +15,7 @@ namespace EmailService
         public string TypeName { get; private set; }
 
         /// <summary>
+
         /// Property name.
         /// </summary>
         public string PropertyName { get; private set; }
