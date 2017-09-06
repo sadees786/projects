@@ -1,0 +1,12 @@
+﻿<p>Thank you for resetting your password. Your new password is: <br/>
+$password$
+
+VALUE1 , VALUE2
+<br/>
+You can login here: http://spafeedback.azurewebsites.net/
+<br/>
+
+If you have any queries, please contact: mhinspections@cqc.org.uk
+<br/>
+</p>
+
