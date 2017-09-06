@@ -26,6 +26,7 @@ namespace EmailService
             PropertyName = propertyName;
         }
 
+
         public override bool Equals(object obj)
         {
             EmailToken that;
